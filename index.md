@@ -1,3 +1,3 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+Geez Louise, do I have to learn Markdown now? I'm still learnign HTML and CSS!
